@@ -1,0 +1,17 @@
+{
+  "appId": "com.skat.shouzhuo",
+  "appName": "收桌",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#1a2f2a"
+    }
+  }
+}
